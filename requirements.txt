@@ -1,0 +1,15 @@
+numpy
+torch
+torchvision
+tqdm
+pandas
+opencv
+timm
+apex
+yaml
+neptune-client
+jupyter
+albumentations
+pydicom
+pretrainedmodels
+sklearn
